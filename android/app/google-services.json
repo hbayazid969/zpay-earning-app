@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929315077929",
+    "project_id": "zpay-e377f",
+    "storage_bucket": "zpay-e377f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929315077929:android:69774d3c0842283e714138",
+        "android_client_info": {
+          "package_name": "com.mbh.zpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929315077929-8t0mb3ti8rpru5b8kc0oat6mt0qalrc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-e4bby4C03F4nTSQyongo-DbgXTws_BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929315077929-8t0mb3ti8rpru5b8kc0oat6mt0qalrc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
